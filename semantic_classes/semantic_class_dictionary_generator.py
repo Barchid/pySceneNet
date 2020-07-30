@@ -7,6 +7,7 @@ NYU_13_CLASSES = ['Unknown', 'Bed', 'Books', 'Ceiling', 'Chair',
                   ]
 
 NYU_40_CLASSES = [
+    "Unknown",
     "Wall",
     "Floor",
     "Cabinet",
